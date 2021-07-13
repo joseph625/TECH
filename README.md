@@ -1,8 +1,8 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## React && Ant Design && library JS for Animation
+
+Check my website [Goto](https://2react-ant.netlify.app/).
+
+
 
 
 
